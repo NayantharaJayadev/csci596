@@ -40,7 +40,7 @@ Meivenkatkumar Lakshminarayanan, Nayanthara K. Jayadev
 
 + **The most compact representation of such third-rank tensors can be obtained using a two-step singular value decomposition giving natural Auger orbitals**
 <p align="center">
-  <img width="468" alt="image" src="https://github.com/NayantharaJayadev/csci596/assets/53525004/cd6b61ab-acbe-4192-b1c4-c2240ad52b6e">
+  <img width="468" alt="image" src="https://github.com/NayantharaJayadev/csci596/assets/53525004/cd6b61ab-acbe-4192-b1c4the -c2240ad52b6e">
 </p>
 
 + However, the SVD of bigger matrices is very slow compared to other steps in the algorithm proposed by Krylov and coworkers<sup>1</sup>.
@@ -75,6 +75,10 @@ Meivenkatkumar Lakshminarayanan, Nayanthara K. Jayadev
     
      https://github.com/arneish/parallel-PCA-openmp
 
+  #Refererences
+  1) J. Phys. Chem. Lett. 2023, 14, 38, 8612–8619
+  2) R. Maulik and G. Mengaldo, "PyParSVD: A streaming, distributed and randomized singular-value-decomposition library," 2021 7th International Workshop on Data Analysis and Reduction for Big Scientific Data (DRBSD-7), St. Louis, MO, USA, 2021, pp. 19-25, doi: 10.1109/DRBSD754563.2021.00007.
+     
 
 
 
