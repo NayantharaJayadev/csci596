@@ -9,6 +9,8 @@ Meivenkatkumar Lakshminarayanan, Nayanthara K. Jayadev
 </p>
 
 ## Quantum Chemistry Applications
++ Forms the foundational basis for Principal Component Analysis (PCA).
+  - And hence involved in various machine learning algorithms' preprocessing step. 
 + Wave functions provide us with the probability of finding an electron at a certain position in space.
 + In one-electron systems, orbitals are wavefunctions.
 + The wave functions of many-electron systems depend on the coordinates of all electrons.
