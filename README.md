@@ -45,6 +45,7 @@ Meivenkatkumar Lakshminarayanan, Nayanthara K. Jayadev
 
 ## Preliminary investigation: Existing Algorithms
 + Using PyParSVD: Python Parallel Singular Value Decomposition.
+  + A Python library that implements a streaming, distributed and randomized algorithm for the singular value decomposition.
   + PyParSVD is based on algorithms using distribution or partitioned SVD as shown by Wang et al.<sup>2</sup>.
   + The process can be distributed into much smaller tasks over multiple processors in parallel, drastically reducing the computational time.
   + In this paper, a novel partitioned method for generating the SVD basis from given data was introduced.
