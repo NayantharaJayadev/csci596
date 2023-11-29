@@ -44,6 +44,7 @@ Meivenkatkumar Lakshminarayanan, Nayanthara K. Jayadev
 </p>
 
 + However, the SVD of bigger matrices is very slow compared to other steps in the algorithm proposed by Krylov and coworkers<sup>1</sup>.
++ The classical SVD of a M x N matrix computation scales as O(MN<sup>2</sup>) and requires O(MN) memory.
 
 ## Aim
 + Parallelization of singular value decomposition of third rank tensors relevant to Auger decay.
