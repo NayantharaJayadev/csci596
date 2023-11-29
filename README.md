@@ -3,18 +3,19 @@ Meivenkatkumar Lakshminarayanan, Nayanthara K. Jayadev
 
 ## Singular Value Decomposition
 + Powerful matrix factorization technique that decomposes a matrix into three other matrices, revealing important structural aspects of the original matrix.
-+ A wide range of applications, including signal processing, image compression, and dimensionality reduction in machine learning, and **quantum chemistry**.
++ A wide range of applications, including signal processing, image compression, dimensionality reduction in machine learning, and **quantum chemistry**.
++ Forms the foundational basis for Principal Component Analysis (PCA).
+   + And hence involved in various machine learning algorithms' preprocessing step.
 + SVD is beneficial in these applications, because of the following reasons.
-   + The need for low-rank (or reduced) representation of a matrix,
-   + The need for a set of (orthogonal) bases for the row and column spaces of a matrix, and
+   + The need for low-rank (or reduced) representation of a matrix.
+   + The need for a set of (orthogonal) bases for the row and column spaces of a matrix.
    + The need for information about the rank of a matrix
 <p align="center">
    <img width="468" alt="image" src="https://github.com/NayantharaJayadev/csci596/assets/53525004/24ba112d-a853-49d0-8af7-3be674a1e620">
 </p>
 
 ## Quantum Chemistry Applications
-+ Forms the foundational basis for Principal Component Analysis (PCA).
-  - And hence involved in various machine learning algorithms' preprocessing step. 
+ 
 + Wave functions provide us with the probability of finding an electron at a certain position in space.
 + In one-electron systems, orbitals are wavefunctions.
 + The wave functions of many-electron systems depend on the coordinates of all electrons.
