@@ -39,6 +39,7 @@ Meivenkatkumar Lakshminarayanan, Nayanthara K. Jayadev
 </p>
 
 + **The most compact representation of such third-rank tensors can be obtained using a two-step singular value decomposition giving natural Auger orbitals**
++ 
 <p align="center">
   <img width="468" alt="image" src="https://github.com/NayantharaJayadev/csci596/assets/53525004/cd6b61ab-acbe-4192-b1c4the -c2240ad52b6e">
 </p>
