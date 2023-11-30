@@ -49,7 +49,7 @@ Meivenkatkumar Lakshminarayanan, Nayanthara K. Jayadev
 ## Aim
 + Parallelization of singular value decomposition of third rank tensors relevant to Auger decay.
   + Comparison between different available algorithms and measure the speed up compared to a serial run.
-  + Parallelize the SVD code using MPI, OpenMP, and CUDA, and compare it with the existing algorithms for two-body Dyson tensors.
+  + Parallelize the SVD code using MPI, and OpenMP and compare it with the existing algorithms for two-body Dyson tensors.
 
 ## Preliminary investigation: Existing Algorithms
 + Using PyParSVD: Python Parallel Singular Value Decomposition.
